@@ -1,0 +1,11 @@
+body
+    background: transparent
+    border-radius: 2px
+
+a
+    color: red
+    padding: 3px
+
+    :hover
+        color: blue
+        padding: 20px
