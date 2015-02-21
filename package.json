@@ -1,0 +1,27 @@
+{
+  "name": "recess",
+  "version": "0.0.1",
+  "description": "CSS Preprocessor",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sourabhv/recess.git"
+  },
+  "keywords": [
+    "recess",
+    "css",
+    "preprocessor"
+  ],
+  "author": "Sourabh Verma <sourabh.coder@gmail.com> (http://sourabhverma.com/)",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/sourabhv/recess/issues"
+  },
+  "homepage": "https://github.com/sourabhv/recess"
+}
