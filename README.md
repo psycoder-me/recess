@@ -3,4 +3,4 @@ Recess
 
 CSS Preprocessor
 
-<small>Wait for it...</small>
+<sub><sup>Wait for it...</sup></sub>
