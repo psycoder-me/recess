@@ -2,7 +2,7 @@
   "name": "recess",
   "version": "0.0.1",
   "description": "CSS Preprocessor",
-  "main": "index.js",
+  "main": "./index",
   "directories": {
     "test": "test"
   },
